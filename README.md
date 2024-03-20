@@ -1,4 +1,4 @@
-## 송재훈
+## Song Jae Hoon
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlffpqms4)](https://solved.ac/dlffpqms4/)
 
