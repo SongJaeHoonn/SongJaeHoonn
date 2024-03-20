@@ -1,5 +1,5 @@
 ## 송재훈
-<hr>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlffpqms4)](https://solved.ac/dlffpqms4/)
 
 <div><h1>:black_nib:Skill</h1></div>
