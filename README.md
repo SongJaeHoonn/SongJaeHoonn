@@ -1,7 +1,7 @@
 ## Song Jae Hoon 🔥
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlffpqms4)](https://solved.ac/dlffpqms4/)
-![SongJaeHoonn's github stats](https://github-readme-stats.vercel.app/api?username=SongJaeHoonn&show_icons=true)
+![SongJaeHoonn's github stats](https://github-readme-stats.vercel.app/api?username=SongJaeHoonn&show_icons=true&theme=dracula)
 
 <div><h1>:black_nib:Skill</h1></div>
 <div>
