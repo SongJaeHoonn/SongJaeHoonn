@@ -1,9 +1,9 @@
-### 송재훈
-
+## 송재훈
+<hr>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlffpqms4)](https://solved.ac/dlffpqms4/)
 
-<div align=center><h1>:black_nib:Skill</h1></div>
-<div align=center>
+<div><h1>:black_nib:Skill</h1></div>
+<div>
   <h4>Language</h4>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
