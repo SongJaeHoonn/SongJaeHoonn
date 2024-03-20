@@ -1,7 +1,7 @@
 <div align=center>### 송재훈입니다.</div>
 
 <div alogn=center>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlffpqms4)](https://solved.ac/백준아이디/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlffpqms4)](https://solved.ac/dlffpqms4/)
 </div>
 
 <div align=center><h1>:black_nib:Skill</h1></div>
