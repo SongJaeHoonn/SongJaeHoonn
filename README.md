@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-## Song Jae Hoon 🔥
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Song%20Jae%20Hoon%10🔥&fontSize=70)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlffpqms4)](https://solved.ac/dlffpqms4/)
 ![SongJaeHoonn's github stats](https://github-readme-stats.vercel.app/api?username=SongJaeHoonn&show_icons=true&theme=dracula)
