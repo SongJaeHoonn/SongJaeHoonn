@@ -10,4 +10,6 @@
     <a href="https://velog.io/@dlffpqms4">
         <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@dlffpqms4" alt="Tech Blog Badge" />
     </a>
+    <h3 style="font-size: 1.8em;">📱 INSTAGRAM</h3>
+    <a href="https://www.instagram.com/songjj_h/">
 </div>
