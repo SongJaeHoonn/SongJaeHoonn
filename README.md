@@ -1,5 +1,5 @@
 <div style="max-width: 600px; margin: 0 auto; text-align: center; font-family: Arial, sans-serif;">
-    <h2 style="font-size: 2.5em; margin-bottom: 20px;"> Song Jae Hoon 🔥</h2>
+    <h2 style="font-size: 2.5em; margin-bottom: 20px;"> 백엔드 개발하는 송재훈입니다.</h2>
     <p style="font-size: 1.2em; margin-bottom: 30px;">
         <strong>Spring Boot</strong> | <strong>JPA</strong> | <strong>MySQL</strong> | 
         <strong>PostgreSQL</strong> | <strong>EC2</strong> | <strong>S3</strong> | 
