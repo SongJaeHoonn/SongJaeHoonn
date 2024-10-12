@@ -12,4 +12,6 @@
     </a>
     <h3 style="font-size: 1.8em;">📱 INSTAGRAM</h3>
     <a href="https://www.instagram.com/songjj_h/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/songjj_h/" alt="Instagram Badge" />
+    </a>
 </div>
