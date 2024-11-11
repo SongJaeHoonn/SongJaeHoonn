@@ -9,7 +9,7 @@
     </p>
     🥇 <strong>AWARDS</strong>
     <p>
-        🎖️ 2024 SW 상상기업 장려상
+        - 2024 경기대학교 SW상상기업 장려상
     </p>
     <h3 style="font-size: 1.8em;">📖 BLOG</h3>
     <a href="https://velog.io/@dlffpqms4">
