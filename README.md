@@ -1,15 +1,15 @@
 <div style="max-width: 600px; margin: 0 auto; text-align: center; font-family: Arial, sans-serif;">
     <h2 style="font-size: 2.5em; margin-bottom: 20px;"> 백엔드 개발하는 송재훈입니다.</h2>
-    ### SKILL
+    - SKILL
     <p style="font-size: 1.2em; margin-bottom: 30px;">
         <strong>Spring Boot</strong> | <strong>JPA</strong> | <strong>MySQL</strong> | 
         <strong>PostgreSQL</strong> | <strong>EC2</strong> | <strong>S3</strong> | 
         <strong>RDS</strong> | <strong>Docker</strong> | <strong>Docker-compose</strong> | 
         <strong>Nginx</strong> | <strong>Redis</strong> | <strong>Jenkins</strong> | <strong>Github Actions</strong>
     </p>
-    ### AWARDS
-    <p style="font-size: 1.2em; margin-bottom: 30px;">
-        <strong>🎖️ 2024 SW 상상기업 장려상</strong>
+    - AWARDS
+    <p>
+        🎖️ 2024 SW 상상기업 장려상
     </p>
     <h3 style="font-size: 1.8em;">📖 BLOG</h3>
     <a href="https://velog.io/@dlffpqms4">
