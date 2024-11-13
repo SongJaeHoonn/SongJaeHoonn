@@ -13,7 +13,7 @@
     </p>
     🔥 <strong>Activities</strong>
     <p>
-        - K-Software Empowerment BootCamp 3기 수료
+        - K-Software Empowerment BootCamp 3기 수료 <br>
         - 구름톤 유니브 3기 미르미
     </p>
     <h3 style="font-size: 1.8em;">📖 BLOG</h3>
