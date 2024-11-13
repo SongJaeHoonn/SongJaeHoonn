@@ -11,6 +11,11 @@
     <p>
         - 2024 경기대학교 SW상상기업 장려상
     </p>
+    🔥 <strong>Activities</strong>
+    <p>
+        - K-Software Empowerment BootCamp 3기 수료
+        - 구름톤 유니브 3기 미르미
+    </p>
     <h3 style="font-size: 1.8em;">📖 BLOG</h3>
     <a href="https://velog.io/@dlffpqms4">
         <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@dlffpqms4" alt="Tech Blog Badge" />
