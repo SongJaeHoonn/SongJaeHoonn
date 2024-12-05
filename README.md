@@ -9,12 +9,13 @@
     </p>
     🥇 <strong>AWARDS</strong>
     <p>
-        - 2024 경기대학교 SW상상기업 장려상
+        - 2024 경기대학교 SW상상기업 장려상 <br>
+        - 2024 SW중심대학 연합 SW페스티벌 장려상
     </p>
-    🔥 <strong>Activities</strong>
+    🔥 <strong>ACTIVITIES</strong>
     <p>
         - K-Software Empowerment BootCamp 3기 수료 <br>
-        - 구름톤 유니브 3기 미르미
+        - 구름톤 유니브 3기 수료
     </p>
     <h3 style="font-size: 1.8em;">📖 BLOG</h3>
     <a href="https://velog.io/@dlffpqms4">
